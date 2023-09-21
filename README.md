@@ -51,5 +51,5 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 - 👋 Hi, I’m @divakar166
 - 👀 I’m interested in AI&ML and want to learn new technologies
 - 🌱 I’m currently learning Django Framework
-- 📫 How to reach me :- linkedin account:: https://www.linkedin.com/in/divakar-singh/
+- 📫 How to reach me :- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-singh/)
 
