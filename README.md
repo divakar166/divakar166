@@ -54,7 +54,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=divakar166&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=divakar166&theme=dark)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakar166&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)     
 
 
